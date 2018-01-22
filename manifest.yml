@@ -5,7 +5,7 @@ declared-services:
 applications:
 - services:
   - language-translator-service
-  name: language-translator-demo
+  name: btdevopspipeline
   command: npm start
   path: .
   memory: 256M
